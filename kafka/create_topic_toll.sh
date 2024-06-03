@@ -2,16 +2,10 @@
 
 #/*****************************************************************
 # SCRIPT: create_topic_toll.sh
-# AUTHOR: Pravin Regismond
-# DATE: 2024-04-11
+# AUTHOR: Jamila McCalla
+# DATE: 06-01-2024
 # DESCRIPTION: Create a topic named 'toll'.
-#
-#******************************************************************
-# AUDIT TRAIL START                               INIT  DATE
-# ----------------------------------------------  ----- -----------
-# 1. Initial version                              PR    2024-04-11
-#
-# AUDIT TRAIL END
+
 #******************************************************************/
 
 # Create a topic named toll

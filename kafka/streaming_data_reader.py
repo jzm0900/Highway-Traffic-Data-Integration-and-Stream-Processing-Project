@@ -1,18 +1,5 @@
 #!/usr/bin/env python
 
-"""
-SCRIPT: streaming_data_reader.py
-AUTHOR: IBM
-DATE: 2022-09-21
-DESCRIPTION: Streaming data consumer
-
-AUDIT TRAIL START                               INIT  DATE
-----------------------------------------------  ----- -----------
-1. Initial version                              IBM   2022-09-21
-2. Updated constant variables                   PR    2024-04-11
-
-AUDIT TRAIL END
-"""
 import os
 from datetime import datetime
 from kafka import KafkaConsumer

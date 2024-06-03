@@ -38,6 +38,7 @@ unzip_data = BashOperator(
 )
 
 # define extract csv data task
+
 extract_data_from_csv = BashOperator(
     task_id='extract_data_from_csv',
     bash_command='cut -f1-4 -d"#" vehicle-data.csv > /home/project/airflow/dags/finalassignment/staging/csv_data.csv',
@@ -45,6 +46,7 @@ extract_data_from_csv = BashOperator(
 )
 
 # define extract tsv data task
+
 extract_data_from_tsv = BashOperator(
     task_id='extract_data_from_tsv',
     bash_command='cut -f5-7 -d$\'\t\'" tolldata-data.tsv > /home/project/airflow/dags/finalassignment/staging/tsv_data.csv',
@@ -52,6 +54,7 @@ extract_data_from_tsv = BashOperator(
 )
 
 # define extract data fixed width task
+
 extract_data_from_fixed_width = BashOperator (
     task_id='extract_data_from_fixed_width',
     bash_command='cut -f6-7 -d" payment-data.txt > /home/project/airflow/dags/finalassignment/staging/fixed_width_data.csv',

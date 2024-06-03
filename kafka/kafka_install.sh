@@ -2,18 +2,11 @@
 
 #/*****************************************************************
 # SCRIPT: kafka_install.sh
-# AUTHOR: Pravin Regismond
-# DATE: 2024-04-11
+# AUTHOR: Jamila McCalla
+# DATE: 06-01-2024
 # DESCRIPTION: Exercise 1 - Prepare the lab environment
 #              - Download Kafka 2.8.0 for Scala 2.12
 #              - Extract Kafka
-#
-#******************************************************************
-# AUDIT TRAIL START                               INIT  DATE
-# ----------------------------------------------  ----- -----------
-# 1. Initial version                              PR    2024-04-11
-#
-# AUDIT TRAIL END
 #******************************************************************/
 
 # Download Kafka

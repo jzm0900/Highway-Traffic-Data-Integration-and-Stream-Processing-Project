@@ -2,16 +2,9 @@
 
 #/*****************************************************************
 # SCRIPT: start_zookeeper.sh
-# AUTHOR: Pravin Regismond
-# DATE: 2024-04-11
+# AUTHOR: Jamila McCalla
+# DATE: 06-01-2024
 # DESCRIPTION: Start Zookeeper server
-#
-#******************************************************************
-# AUDIT TRAIL START                               INIT  DATE
-# ----------------------------------------------  ----- -----------
-# 1. Initial version                              PR    2024-04-11
-#
-# AUDIT TRAIL END
 #******************************************************************/
 
 # Start Zookeeper server

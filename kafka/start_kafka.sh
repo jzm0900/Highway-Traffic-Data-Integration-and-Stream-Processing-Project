@@ -2,16 +2,9 @@
 
 #/*****************************************************************
 # SCRIPT: start_kafka.sh
-# AUTHOR: Pravin Regismond
-# DATE: 2024-04-11
+# AUTHOR: Jamila McCalla
+# DATE: 06-01-2024
 # DESCRIPTION: Start Kafka message broker service.
-#
-#******************************************************************
-# AUDIT TRAIL START                               INIT  DATE
-# ----------------------------------------------  ----- -----------
-# 1. Initial version                              PR    2024-04-11
-#
-# AUDIT TRAIL END
 #******************************************************************/
 
 # Start Kafka message broker service
